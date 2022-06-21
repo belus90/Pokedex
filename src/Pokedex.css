@@ -7,3 +7,15 @@ flex-wrap: wrap;
 .Pokedex-name{
     text-align: center;
 }
+
+.Pokedex-winner{
+color: rgb(37, 215, 37)
+}
+
+.Pokedex-loser{
+    color: rgb(224, 84, 84);
+}
+
+.Pokedex{
+    text-align: center;
+}
